@@ -29,8 +29,11 @@ label {
 }
 
 label, input {
-	width:278px;
+	width:378px;
 	margin: 2px 0;
+	margin-top: 5px;
+	font-size: 19px;
+	font-family: arial;
 
 }
 
@@ -39,7 +42,8 @@ input {
 	}
 
 fieldset {
-
+	font-size: 25px;
+	font-family: arial;
 	width:400px;
 
 }
