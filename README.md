@@ -1,7 +1,7 @@
 ## 💡 Vamos trabalhar juntos?
 
 ## 🎈 O projeto
-Decidi criar um layout single page para capturar users, com o intuíto de está presente no discord. Seja estudando ou trabalhando! 
+Decidi criar um layout simples para capturar users, com o intuíto de está presente no discord. Seja estudando ou trabalhando! 
 
 
 ## 🖥️ Visualização - INICIAL
