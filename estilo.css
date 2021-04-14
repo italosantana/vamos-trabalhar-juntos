@@ -30,7 +30,7 @@ label, input {
 	margin-top: 5px;
 	font-size: 19px;
 	font-family: arial;
-
+	outline: none;
 }
 
 input {
