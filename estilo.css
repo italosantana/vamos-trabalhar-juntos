@@ -1,13 +1,9 @@
-
-input:-ms-input-placeholder{letter-spacing:16px;}
-input::-webkit-input-placeholder{letter-spacing:1px;}
-input:-moz-placeholder{letter-spacing:16px;}	
-
-* body {
+body {
 	margin: 0;
 	padding: 0;
 	display: flex;
 	background-color: #ADD8E6;
+
 }
 
 p {
@@ -45,7 +41,6 @@ fieldset {
 	font-size: 25px;
 	font-family: arial;
 	width:400px;
-
 }
 
 legend {
@@ -65,19 +60,34 @@ legend {
 
 .nome {
 	font-family: sans-serif;
-	font-size: 20px;
+	font-size: 15px;
 }
 
 .email {
 	font-family: sans-serif;
-	font-size: 20px;
+	font-size: 15px;
 }
 .texto {
 	font-family: sans-serif;
-	font-size: 20px;
+	font-size: 15px;
 }
 
 .pergunta {
 	font-family: sans-serif;
-	font-size: 20px;
+	font-size: 15px;
+}
+
+button {
+	padding: 10px 180px;
+	background-color: #2DB4D5;
+}
+
+button:hover {
+	padding: 10px 180px;
+	background-color: #1B8FAB;
+}
+
+
+p {
+	top: -200px;
 }
