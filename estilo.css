@@ -1,3 +1,8 @@
+
+input:-ms-input-placeholder{letter-spacing:16px;}
+input::-webkit-input-placeholder{letter-spacing:1px;}
+input:-moz-placeholder{letter-spacing:16px;}	
+
 * body {
 	margin: 0;
 	padding: 0;
@@ -49,4 +54,26 @@ legend {
 
 .enviar {
 	margin: 3px 180px;
+}
+
+
+/* Vamos organizar a questão do CSS da caixinha */
+
+.nome {
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+.email {
+	font-family: sans-serif;
+	font-size: 20px;
+}
+.texto {
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+.pergunta {
+	font-family: sans-serif;
+	font-size: 20px;
 }
