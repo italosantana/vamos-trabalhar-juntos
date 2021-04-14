@@ -4,7 +4,7 @@
 Decidi criar um layout single page para capturar users, com o intuíto de está presente no discord. Seja estudando ou trabalhando! 
 
 
-## 🖥️ Visualização
+## 🖥️ Visualização - INICIAL
 ![alt text](https://github.com/italosantana/vamos-trabalhar-juntos/blob/main/img/banner.JPG)
 
 ## ☂️ Estruturamento 
